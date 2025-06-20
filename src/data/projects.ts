@@ -2,119 +2,82 @@ import { IProjectItem, ProjectType, RepoType } from "@/types";
 
 const projects: IProjectItem[] = [
   {
-    id: "social-media-app-flutter",
-    title: "Social Media App",
-    description:
-      "A social media mobile application developed using Flutter, GetX, Firebase Notifications and Hive.",
-    icon: "/skills/flutter.svg",
+    id: "point-of-sale-desktop-application",
+    title: "Point Of Sale Desktop Application (POS)",
+    description: [
+      "Front-End Developer & Project Manager at Dastrevas.coding & Akhari",
+      "Led UI design for a user-friendly interface.",
+      "Managed team efforts to deliver a functional POS.",
+      "Ensured alignment with client needs.",
+      "Coordinated milestones and timelines.",
+      "Delivered an efficient application now in use by the client.",
+      "Developed POS apps for Coffee and Eaternity Jempolan, Sambel'e Nyahti, and 5 outlets of Sambel Colek based in Yogyakarta.",
+    ],
+    icon: "/skills/csharp.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/social-media-app-flutter",
-    url: "https://github.com/nixrajput/social-media-app-flutter/releases",
-    tags: ["Flutter", "Dart", "GetX", "Hive"],
+    githubUrl: "#", // Replace with actual GitHub URL
+    url: "#", // Replace with actual project URL
+    tags: ["POS", "UI/UX Design", "Team Management", "C#"],
   },
   {
-    id: "e-commerce-app-mern",
-    title: "E-commerce App",
-    description:
-      "An e-commerce web application developed using React.js, Material UI, Redux, and Stripe.",
-    icon: "/skills/react.svg",
-    repoType: RepoType.Public,
-    projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/ecommerce-web-reactjs",
-    url: "https://nixlab-shop.vercel.app",
-    tags: ["React.js", "Redux", "Material UI", "Stripe"],
-  },
-  {
-    id: "video-calling-app-flutter",
-    title: "Video Calling App",
-    description:
-      "A video calling mobile application developed using Flutter and Agora SDK that allows users to call each other face to face.",
-    icon: "/skills/flutter.svg",
-    repoType: RepoType.Public,
-    projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/video-calling-app-flutter",
-    url: "https://github.com/nixrajput/video-calling-app-flutter/releases",
-    tags: ["Flutter", "Dart", "GetX", "Agora SDK"],
-  },
-  {
-    id: "social-media-api-nodejs",
-    title: "Social Media API",
-    description:
-      "A RESTful API developed using Node.js, Express.js, and MongoDB to integrate backend and frontend with ease.",
-    icon: "/skills/nestjs.svg",
-    repoType: RepoType.Public,
-    projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/social-media-api-nodejs",
-    tags: ["Node.js", "Express.js", "MongoDB", "WebSocket"],
-  },
-  {
-    id: "grocery-list-maker-app-flutter",
-    title: "Grocery List Maker App",
-    description:
-      "A grocery list maker mobile application developed using Flutter, BloC, Hive DB, and PDF.",
-    icon: "/skills/flutter.svg",
-    repoType: RepoType.Public,
-    projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/grocery-list-maker-flutter",
-    url: "https://github.com/nixrajput/grocery-list-maker-flutter/releases/latest",
-    tags: ["Flutter", "Dart", "BLoC", "PDF", "Hive"],
-  },
-  {
-    id: "e-commerce-api-nodejs",
-    title: "E-commerce API",
-    description:
-      "A RESTful API developed using Node.js, Express.js, MongoDB, and Stripe to integrate e-commerce backend.",
+    id: "point-of-sale-web-application",
+    title: "Point Of Sale Web Api (POS)",
+    description: [
+      "Front-End Developer & Project Manager at Dastrevas.coding & Akhari",
+      "Led UI design for a user-friendly interface.",
+      "Managed team efforts to deliver a functional POS.",
+      "Ensured alignment with client needs.",
+      "Coordinated milestones and timelines.",
+      "Delivered an efficient application now in use by the client.",
+      "Developed POS apps for Coffee and Eaternity Jempolan, Sambel'e Nyahti, and 5 outlets of Sambel Colek based in Yogyakarta.",
+    ],
     icon: "/skills/nodejs.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/ecommerce-api-nodejs",
-    tags: ["Node.js", "Express.js", "MongoDB", "Stripe"],
+    githubUrl: "#", // Replace with actual GitHub URL
+    url: "#", // Replace with actual project URL
+    tags: ["Node.js", "Linux", "DevOps", "Express.js"],
   },
   {
-    id: "flutter-carousel-widget-package",
-    title: "Flutter Carousel Widget Package",
-    description:
-      "A customizable carousel widget for Flutter, offering features such as infinite scrolling, auto-scrolling, custom child widgets, pre-built indicators, expandable child widgets, auto-sized child support, and enlarged center page.",
-    icon: "/skills/flutter.svg",
+    id: "web-ingredient-procurement",
+    title: "Web Ingredient for Procurement of Goods",
+    description: [
+      "Project Manager at Dastrevas.coding & Akhari Tech & IT Consultant",
+      "Organized and assigned tasks for seamless project flow.",
+      "Used Trello for task tracking and client updates.",
+      "Enhanced UI/UX for user satisfaction.",
+      "Structured workflow for transparency.",
+      "Met project goals with efficient team coordination.",
+      "Developed CMS Ingredient apps for Coffee and Eaternity Jempolan, Sambel'e Nyahti, and 5 outlets of Sambel Colek, based in Yogyakarta.",
+    ],
+    icon: "/skills/react.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/flutter-carousel-widget-package",
-    tags: ["Flutter", "Dart", "Carousel"],
+    githubUrl: "#", // Replace with actual GitHub URL
+    url: "#", // Replace with actual project URL
+    tags: ["Project Management", "Web Development", "UI/UX"],
   },
   {
-    id: "get-time-ago-package",
-    title: "GetTimeAgo Package",
-    description:
-      "A Dart package that converts and formats DateTime objects into human-readable 'time ago' strings, such as '20 seconds ago', 'a minute ago', or '7 hours ago'.",
-    icon: "/skills/dart.svg",
-    repoType: RepoType.Public,
-    projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/gettimeago",
-    tags: ["Dart", "DateTime", "Formatting"],
-  },
-  {
-    id: "portfolio-website",
-    title: "Portfolio Website",
-    description:
-      "This repository contains the source code for a portfolio website built using Next.js and Sass.",
+    id: "web-content-management-system",
+    title: "Web Content Management System (CMS)",
+    description: [
+      "Project Manager at Dastrevas.coding & Akhari Tech & IT Consultant",
+      "Managed transition of a POS from desktop to web-based.",
+      "Maintained real-time updates for the client via Trello.",
+      "Ensured timely delivery of project milestones.",
+      "Fostered collaboration among team members.",
+      "Delivered a client-focused solution meeting scope and timeline.",
+      "Developed CMS applications for Coffee and Eaternity Jempolan, Sambel'e Nyahti, and 5 outlets of Sambel Colek, based in Yogyakarta.",
+    ],
     icon: "/skills/nextjs.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/portfolio-website",
-    url: "https://nixrajput.dev",
-    tags: ["Next.js", "Sass", "Web Development"],
-  },
-  {
-    id: "bus-reservation-system-management",
-    title: "Bus Reservation System Management",
-    description:
-      "This repository contains the Bus Reservation System Management project developed using Object Oriented Programming (OOP) and File Handling concepts in C++.",
-    icon: "/skills/cpp.png",
-    repoType: RepoType.Public,
-    projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/bus-reservation-system",
-    tags: ["C++", "OOP", "File Handling"],
+    githubUrl: "#", // Replace with actual GitHub URL
+    url: "#", // Replace with actual project URL
+    tags: ["Project Management", "Web Development", "CMS"],
   },
 ];
+
+// Export the projects array for use in other parts of the application
 export default projects;

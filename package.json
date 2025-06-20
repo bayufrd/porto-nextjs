@@ -6,6 +6,7 @@
     "dev": "next dev -p 4000",
     "build": "next build",
     "start": "next start",
+    "export": "next export",
     "lint": "next lint",
     "push": "git add -A && git commit -m \"Update Changes & Bug Fixes\" && git push origin master"
   },
@@ -38,7 +39,7 @@
     "@types/node": "^20.17.1",
     "@types/react": "^18.3.12",
     "autoprefixer": "^10.4.20",
-    "eslint": "^9.13.0",
+    "eslint": "^8.0.0",
     "eslint-config-next": "^14.2.16",
     "postcss": "^8.4.47",
     "postcss-nesting": "^12.1.5",

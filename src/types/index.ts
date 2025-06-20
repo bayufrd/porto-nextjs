@@ -40,7 +40,7 @@ export enum ProjectType {
 export interface IProjectItem {
   id: string;
   title: string;
-  description: string;
+  description: string[];
   icon: string;
   repoType: RepoType;
   projectType?: ProjectType;

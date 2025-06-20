@@ -15,10 +15,15 @@ const skills: ISkillListItem[] = [
         icon: "/skills/typescript.svg",
       },
       {
-        title: "Dart",
-        level: SkillLevel.Expert,
-        icon: "/skills/dart.svg",
+        title: "C#",
+        level: SkillLevel.Intermediate,
+        icon: "/skills/csharp.svg",
       },
+      // {
+      //   title: "Dart",
+      //   level: SkillLevel.Expert,
+      //   icon: "/skills/dart.svg",
+      // },
     ],
   },
   {
@@ -45,15 +50,20 @@ const skills: ISkillListItem[] = [
         icon: "/skills/css.svg",
       },
       {
-        title: "SASS",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/sass.svg",
-      },
-      {
-        title: "Redux Toolkit",
+        title: "dotNet",
         level: SkillLevel.Expert,
-        icon: "/skills/redux.svg",
+        icon: "/skills/dotnetframework.svg",
       },
+      // {
+      //   title: "SASS",
+      //   level: SkillLevel.Intermediate,
+      //   icon: "/skills/sass.svg",
+      // },
+      // {
+      //   title: "Redux Toolkit",
+      //   level: SkillLevel.Expert,
+      //   icon: "/skills/redux.svg",
+      // },
     ],
   },
   {
@@ -70,10 +80,15 @@ const skills: ISkillListItem[] = [
         icon: "/skills/express.svg",
       },
       {
-        title: "Socket.io",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/socket-io.png",
+        title: "dotNet",
+        level: SkillLevel.Expert,
+        icon: "/skills/dotnetframework.svg",
       },
+      // {
+      //   title: "Socket.io",
+      //   level: SkillLevel.Intermediate,
+      //   icon: "/skills/socket-io.png",
+      // },
       // {
       //   title: "Nest.js",
       //   level: SkillLevel.Beginner,
@@ -89,11 +104,11 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Expert,
         icon: "/skills/flutter.svg",
       },
-      {
-        title: "GetX",
-        level: SkillLevel.Expert,
-        icon: "/skills/getx.png",
-      },
+      // {
+      //   title: "GetX",
+      //   level: SkillLevel.Expert,
+      //   icon: "/skills/getx.png",
+      // },
     ],
   },
   {
