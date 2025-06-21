@@ -49,13 +49,13 @@ const socialLinks: ISocialLinkItem[] = [
   // {
   //   name: Strings.buyMeACoffee,
   //   url: Strings.buyMeACoffeeLink,
-  //   icon: "/images/buy-me-a-coffee.png",
+  //   icon: "/images/buy-me-a-coffee.svg",
   //   text: Strings.buyMeACoffeeUsername,
   // },
   // {
   //   name: Strings.koFi,
   //   url: Strings.koFiLink,
-  //   icon: "/images/ko-fi.png",
+  //   icon: "/images/ko-fi.svg",
   //   text: Strings.buyMeACoffeeUsername,
   // },
 ];

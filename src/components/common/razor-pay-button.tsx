@@ -11,7 +11,7 @@ function RazorPayButton() {
       target="_blank"
     >
       <Image
-        src="/images/razorpay-logo.png"
+        src="/images/razorpay-logo.svg"
         alt={`razor-pay-button`}
         width={100}
         height={100}

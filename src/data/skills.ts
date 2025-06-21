@@ -32,7 +32,7 @@ const skills: ISkillListItem[] = [
       {
         title: "Next.js",
         level: SkillLevel.Expert,
-        icon: "/skills/nextjs.png",
+        icon: "/skills/nextjs.svg",
       },
       {
         title: "React.js",
@@ -87,7 +87,7 @@ const skills: ISkillListItem[] = [
       // {
       //   title: "Socket.io",
       //   level: SkillLevel.Intermediate,
-      //   icon: "/skills/socket-io.png",
+      //   icon: "/skills/socket-io.svg",
       // },
       // {
       //   title: "Nest.js",
@@ -107,7 +107,7 @@ const skills: ISkillListItem[] = [
       // {
       //   title: "GetX",
       //   level: SkillLevel.Expert,
-      //   icon: "/skills/getx.png",
+      //   icon: "/skills/getx.svg",
       // },
     ],
   },
@@ -137,7 +137,7 @@ const skills: ISkillListItem[] = [
       {
         title: "Docker",
         level: SkillLevel.Beginner,
-        icon: "/skills/docker.png",
+        icon: "/skills/docker.svg",
       },
       {
         title: "AWS",
@@ -167,7 +167,7 @@ const skills: ISkillListItem[] = [
       {
         title: "Ubuntu",
         level: SkillLevel.Intermediate,
-        icon: "/skills/ubuntu.png",
+        icon: "/skills/ubuntu.svg",
       },
     ],
   },
@@ -177,17 +177,17 @@ const skills: ISkillListItem[] = [
       {
         title: "Problem Solving",
         level: SkillLevel.Expert,
-        icon: "/images/logical-thinking.png",
+        icon: "/images/logical-thinking.svg",
       },
       {
         title: "Collaboration",
         level: SkillLevel.Expert,
-        icon: "/images/collaboration.png",
+        icon: "/images/collaboration.svg",
       },
       {
         title: "Analytical Skills",
         level: SkillLevel.Expert,
-        icon: "/images/analytical-skills.png",
+        icon: "/images/analytical-skills.svg",
       },
     ],
   },

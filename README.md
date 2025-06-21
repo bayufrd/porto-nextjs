@@ -40,7 +40,7 @@ This repository contains the source code for a portfolio website built using Nex
 
 ## Screenshots
 
-![Screenshot 1](/screenshot-desktop.png)
+![Screenshot 1](/screenshot-desktop.svg)
 
 ## Getting Started
 
@@ -147,7 +147,7 @@ Thank you for considering sponsoring my work!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nixrajput)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nixrajput)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.svg)](https://www.buymeacoffee.com/nixrajput)
 
 ## Connect With Me
 

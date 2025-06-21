@@ -46,6 +46,11 @@ export const navMenus: INavItem[] = [
     link: "/#contact",
     icon: faEnvelope,
   },
+  {
+    name: "Login",
+    link: "https://login.dastrevas.com",
+    icon: faEnvelope,
+  },
   // {
   //   name: "Payment",
   //   link: "/payment",

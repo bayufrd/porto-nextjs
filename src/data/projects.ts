@@ -70,7 +70,7 @@ const projects: IProjectItem[] = [
       "Delivered a client-focused solution meeting scope and timeline.",
       "Developed CMS applications for Coffee and Eaternity Jempolan, Sambel'e Nyahti, and 5 outlets of Sambel Colek, based in Yogyakarta.",
     ],
-    icon: "/skills/nextjs.png",
+    icon: "/skills/react.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "#", // Replace with actual GitHub URL

@@ -5,10 +5,10 @@ const services: IServiceItem[] = [
     id: 1,
     title: "Mobile App Development",
     icons: [
-      "/skills/socket-io.png",
+      "/skills/socket-io.svg",
       "/skills/dart.svg",
       "/skills/flutter.svg",
-      "/skills/getx.png",
+      "/skills/getx.svg",
       "/skills/firebase.svg",
     ],
     shortDescription:
@@ -22,7 +22,7 @@ const services: IServiceItem[] = [
     icons: [
       "/skills/redux.svg",
       "/skills/react.svg",
-      "/skills/nextjs.png",
+      "/skills/nextjs.svg",
       "/skills/html.svg",
       "/skills/css.svg",
     ],
@@ -34,8 +34,8 @@ const services: IServiceItem[] = [
     id: 3,
     title: "Backend Development",
     icons: [
-      "/skills/socket-io.png",
-      "/skills/docker.png",
+      "/skills/socket-io.svg",
+      "/skills/docker.svg",
       "/skills/nodejs.svg",
       "/skills/express.svg",
       "/skills/aws.svg",
@@ -49,10 +49,10 @@ const services: IServiceItem[] = [
     title: "Product Strategy",
     icons: [
       "/skills/git.svg",
-      "/images/collaboration.png",
-      "/images/logical-thinking.png",
-      "/images/analytical-skills.png",
-      "/skills/ubuntu.png",
+      "/images/collaboration.svg",
+      "/images/logical-thinking.svg",
+      "/images/analytical-skills.svg",
+      "/skills/ubuntu.svg",
     ],
     shortDescription:
       "I define goals, target audiences, and roadmap for success.",

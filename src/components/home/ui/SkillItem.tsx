@@ -26,7 +26,7 @@ const SkillItem = ({ data }: { data: ISkillListItem }) => {
                     sizes="100%"
                     loading="lazy"
                     placeholder="blur"
-                    blurDataURL="/images/logical-thinking.png"
+                    blurDataURL="/images/logical-thinking.svg"
                     className="w-12 lg:w-14 h-auto aspect-square object-cover"
                   />
                 ) : null}

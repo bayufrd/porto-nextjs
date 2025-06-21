@@ -85,7 +85,7 @@ const IconSkeleton = ({ item }: Readonly<{ item: IServiceItem }>) => {
             sizes="100%"
             loading="lazy"
             placeholder="blur"
-            blurDataURL="/images/placeholder.png"
+            blurDataURL="/images/placeholder.svg"
             className="h-4 w-4 aspect-square"
           />
         </IconContainer>
@@ -98,7 +98,7 @@ const IconSkeleton = ({ item }: Readonly<{ item: IServiceItem }>) => {
             sizes="100%"
             loading="lazy"
             placeholder="blur"
-            blurDataURL="/images/placeholder.png"
+            blurDataURL="/images/placeholder.svg"
             className="h-6 w-6 aspect-square"
           />
         </IconContainer>
@@ -111,7 +111,7 @@ const IconSkeleton = ({ item }: Readonly<{ item: IServiceItem }>) => {
             sizes="100%"
             loading="lazy"
             placeholder="blur"
-            blurDataURL="/images/placeholder.png"
+            blurDataURL="/images/placeholder.svg"
             className="h-8 w-8 aspect-square"
           />
         </IconContainer>
@@ -124,7 +124,7 @@ const IconSkeleton = ({ item }: Readonly<{ item: IServiceItem }>) => {
             sizes="100%"
             loading="lazy"
             placeholder="blur"
-            blurDataURL="/images/placeholder.png"
+            blurDataURL="/images/placeholder.svg"
             className="h-6 w-6 aspect-square"
           />
         </IconContainer>
@@ -137,7 +137,7 @@ const IconSkeleton = ({ item }: Readonly<{ item: IServiceItem }>) => {
             sizes="100%"
             loading="lazy"
             placeholder="blur"
-            blurDataURL="/images/placeholder.png"
+            blurDataURL="/images/placeholder.svg"
             className="h-4 w-4 aspect-square"
           />
         </IconContainer>
